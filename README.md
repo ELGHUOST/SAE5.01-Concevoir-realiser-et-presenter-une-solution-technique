@@ -6,6 +6,9 @@ Décembre 2025 – Groupe X (à compléter)
 Inspiré de la finale nationale WorldSkills France 2023 (Lyon)
 
 
+
+
+
 ## Description du projet
 Conception, déploiement et présentation d’une infrastructure réseau et système complète pour l’entreprise fictive **WorldSkills Lyon 2025 (WSL2025)** en collaboration avec **WorldSkills France (WSFR)** via une liaison MAN privée.
 
@@ -23,5 +26,7 @@ Conception, déploiement et présentation d’une infrastructure réseau et syst
 | Sécurité (CA, firewall, VPN)                     | Communication interne / externe     |
 | Automatisation Ansible (IoM)                     | Reporting & soutenance              |
 
-## Schéma d’architecture global
-![Schéma réseau](docs/images/schema-detaille-projet.png)
+Jalon 21 INETSRV FTPS Server GROUPE 3
+https://github.com/user-attachments/assets/c5774c38-ff21-402b-9a0d-7c2f64d8c8c8
+
+
