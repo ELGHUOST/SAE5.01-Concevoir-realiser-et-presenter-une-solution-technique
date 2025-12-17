@@ -29,4 +29,13 @@ Conception, déploiement et présentation d’une infrastructure réseau et syst
 Jalon 21 INETSRV FTPS Server GROUPE 3
 https://github.com/user-attachments/assets/c5774c38-ff21-402b-9a0d-7c2f64d8c8c8
 
+Jalon 25 HQDCSERV ADCS GROUPE 3
+https://github.com/user-attachments/assets/67c08335-3bbb-498b-9925-3ba9ce342d50
+
+Jalon 18 DNSSRV configuration DNS GROUPE 3
+https://github.com/user-attachments/assets/70f5d41c-e108-45ed-bc38-478e5397cfd2
+
+
+
+
 
